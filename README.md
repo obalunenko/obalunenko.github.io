@@ -12,5 +12,3 @@ Golang Developer at @ [Melsoft](https://melsoft-games.com/eng)
   - Experience in interviewing candidates for open positions.
   - Experience in mentoring and training interns.
   - Experience in developing systems from scratch with CI/CD
-
-## Technical Experience

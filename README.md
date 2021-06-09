@@ -13,4 +13,6 @@ Golang Developer at @ [Melsoft](https://melsoft-games.com/eng)
   - Experience in mentoring and training interns.
   - Experience in developing systems from scratch with CI/CD
 
-<iframe src="https://standardresume.co/r/obalunenko" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%"></iframe>
+<iframe src="https://standardresume.co/r/obalunenko" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
+</html>
+

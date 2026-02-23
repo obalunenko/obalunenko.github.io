@@ -1,6 +1,6 @@
 # Oleg Balunenko
 
-_Golang Developer based in Tbilisi, Georgia <br>
+_Golang Developer based in Tbilisi, Georgia_ <br>
 
 [Email](mailto:oleg.balunenko@gmail.com)  / [Telegram](https://t.me/obalunenko) / [LinkedIn](https://www.linkedin.com/in/olegbalunenko/) / [GitHub](https://github.com/obalunenko/) / [My CV](https://obalunenko.github.io/cv/)
 
